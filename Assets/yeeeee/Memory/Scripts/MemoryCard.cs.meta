@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 006e7b3fe479b4d69a2769784fc86b44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hiddenSprite: {instanceID: 0}
+  - revealedSprite: {instanceID: 0}
+  - cardFlipSound: {instanceID: 0}
+  - cardMatchSound: {fileID: 8300000, guid: 00369cbb5dc9f4bce8ca527914c9c12d, type: 3}
+  - cardMismatchSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b28fae64b24bdf64f8d10c58163b39f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boxPrefab: {instanceID: 0}
+  - spawnSoundClip: {fileID: 8300000, guid: b19b648031828c342a078e9738cf4e35, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
