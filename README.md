@@ -13,3 +13,5 @@ List of scenes:
 - CongratulationsScene
 
 Have fun and remember cds can strike unexpectedly at any point in time!
+
+Hannah, Monika & Vanessa
