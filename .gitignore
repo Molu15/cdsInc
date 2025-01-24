@@ -56,8 +56,6 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.aab
-*.unitypackage
 *.unitypackage.meta
 *.app
 
