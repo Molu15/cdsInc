@@ -2,7 +2,7 @@
 
 We present to you cds Inc. a mobile application all about cats with fun minigames.
 
-To get started with it, you have 2 options. Either you download the APK-file and start the game directly or you download the unity project and build it from there. All relevant code and sceens are in the xxx folder.
+To get started with it, you have 2 options. Either you download the APK-file and start the game directly or you download the unity project and build it from there. The presentations and the report are in the docs folder.
 
 List of scenes:
 - Start
